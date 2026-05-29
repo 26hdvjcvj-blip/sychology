@@ -1,0 +1,6 @@
+{
+  "name": "Persuasion Art",
+  "description": "An educational application featuring key principles from Bob Burg's 'Winning Without Intimidation'.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
